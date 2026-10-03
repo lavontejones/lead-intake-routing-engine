@@ -1,0 +1,12 @@
+lead-intake-routing-engine/.gitignore
+node_modules/
+output/
+data/
+uploads/
+.env
+.env.*
+*.pem
+*.key
+*.log
+coverage/
+.DS_Store
