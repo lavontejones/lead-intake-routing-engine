@@ -1,0 +1,21 @@
+{
+  "first_name": " Devon ",
+  "last_name": "Price",
+  "title": "Operations manager",
+  "company": "Example Ridge Plumbing",
+  "gender": "",
+  "spouse_partner": "",
+  "email": "DEVON.PRICE@EXAMPLE.COM",
+  "phone": "(312) 555-0118 ext 204",
+  "location": "Chicago, IL",
+  "lead_source": "referral",
+  "service_interest": "Plumbing dispatch and lead follow-up automation",
+  "estimated_value": "$12,000.00",
+  "urgency": "high",
+  "notes": "Fictional example: wants a pilot before the next busy season.",
+  "info_field_1": "Current system: shared spreadsheet",
+  "info_field_2": "Team size: 8",
+  "info_field_3": "Requested callback: weekday afternoon",
+  "info_field_4": "Demo record only",
+  "tags": ["pilot requested", "dispatch"]
+}

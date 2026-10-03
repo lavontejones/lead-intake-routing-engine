@@ -1,0 +1,16 @@
+{
+  "name": "lead-intake-routing-engine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local lead intake, explainable scoring, duplicate review, and CRM export.",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test",
+    "demo": "node src/cli.js --input samples/leads.csv --out output",
+    "examples": "node src/cli.js --input samples/leads.csv --out docs/example-output",
+    "audit": "node scripts/audit.js"
+  },
+  "license": "MIT"
+}

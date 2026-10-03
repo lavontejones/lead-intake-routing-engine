@@ -1,0 +1,13 @@
+first_name,last_name,title,company,gender,spouse_partner,email,phone,location,lead_source,service_interest,estimated_value,urgency,notes,info_field_1,info_field_2,info_field_3,info_field_4,tags
+ Avery ,Morgan,Owner,Example   Ridge Plumbing,,,AVERY.MORGAN@EXAMPLE.COM,(312) 555-0101,"Chicago, IL",Referral,Plumbing dispatch automation,"$12,500.00",HIGH,Fictional business wants faster callback handling.,8-person team,Spreadsheet dispatch,Callback: afternoon,Synthetic data,pilot requested
+Jordan,Ellis,Operations lead,Example Willow Boutique,nonbinary,Drew Ellis (fictional),jordan.ellis@example.org,312.555.0102,"Madison, WI",website,Retail inventory reporting,7500,medium,Interested in weekly sales and inventory summaries.,,,,,reporting
+Casey,Chen,Principal,Example Cedar Consulting,,,casey.chen@example.org,3125550103,"Denver, CO",event,Consulting lead intake,2200,low,Early exploration; asked for a sample process.,,,,,discovery
+Avery,Morgan,Owner,Example Ridge Plumbing,,,avery.morgan@example.com,+13125550101,"Chicago, IL",website,Plumbing dispatch automation,12500,low,Intentional duplicate of the first sample.,,,,,follow-up
+Taylor,Brooks,General manager,Example Harbor Restaurant,,,taylor.brooks@example.net,555,"Austin, TX",website,Restaurant booking follow-up,5000,medium,Intentional malformed phone.,,,,,booking
+Riley,Shah,Owner,Example Meadow Landscaping,,,,,"Columbus, OH",csv import,Landscaping estimate follow-up,1800,low,Intentional missing email and phone.,,,,,
+Sam,Ortega,Director,Example North Manufacturing,,,sam.ortega@example.com,3125550107,"Detroit, MI",referral,Production reporting,15000,high,No matching category; general sales fallback.,,,,,
+Blake,Reed,Architect,Example Elm Architecture,,,blake.reed@example.org,,"Seattle, WA",website,Architecture project intake,,low,Intentional missing estimated value and phone.,,,,,
+Quinn,Patel,Store manager,Example Willow Boutique,,,quinn.patel@example.net,3125550102,"Madison, WI",website,Retail reporting,6000,medium,"Shared company phone; duplicate candidate, not automatically merged.",,,,,
+Alex,Kim,Founder,Example Bridge Group,,,alex.kim@example.com,3125550110,"Portland, OR",event,Plumbing and retail intake,4500,medium,Intentional equally strong category matches.,,,,,
+Parker,Lane,Owner,Example Northline HVAC,,,parker.lane@example.org,3125550111,"Phoenix, AZ",website,HVAC follow-up workflow,11000,high,Unverified example link: https://example.com/demo,,,,,
+Jamie,Rivera,Manager,Example Orchard Hotel,,,jamie.rivera@example.net,3125550112,"Nashville, TN",csv import,Hotel inquiry routing,"$5,00",medium,"=HYPERLINK(""https://example.com"",""synthetic unsafe spreadsheet text"")",,,,,

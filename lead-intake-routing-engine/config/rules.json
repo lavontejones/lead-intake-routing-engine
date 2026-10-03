@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "currency": "USD",
+  "default_assignment": "General sales",
+  "review_assignment": "Intake review",
+  "categories": [
+    { "name": "home_services", "label": "Home services", "keywords": ["plumbing", "hvac", "roofing", "landscaping", "home repair"], "assignment": "Home services sales", "points": 20 },
+    { "name": "retail", "label": "Retail", "keywords": ["retail", "boutique", "ecommerce", "furnishings", "store inventory"], "assignment": "Retail solutions", "points": 20 },
+    { "name": "professional_services", "label": "Professional services", "keywords": ["accounting", "consulting", "legal", "architecture", "professional services"], "assignment": "Business services sales", "points": 20 },
+    { "name": "hospitality", "label": "Hospitality", "keywords": ["restaurant", "hotel", "catering", "hospitality"], "assignment": "Hospitality solutions", "points": 20 }
+  ],
+  "contact_points": { "email": 8, "phone": 7, "company": 5 },
+  "urgency_points": { "high": 25, "medium": 15, "low": 5 },
+  "value_bands": [
+    { "minimum": 10000, "points": 25 },
+    { "minimum": 5000, "points": 18 },
+    { "minimum": 1000, "points": 10 },
+    { "minimum": 0, "points": 0 }
+  ],
+  "source_points": { "referral": 10, "website": 7, "event": 5, "csv import": 3, "other": 0 },
+  "priority_thresholds": { "high": 75, "medium": 45 },
+  "high_value_tag_minimum": 10000
+}

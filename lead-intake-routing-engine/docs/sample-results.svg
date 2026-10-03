@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1002" viewBox="0 0 1100 1002" role="img" aria-labelledby="title desc"><title id="title">Lead intake sample batch results</title><desc id="desc">Generated from twelve fictional leads. Five ready, four for review, three invalid.</desc><rect width="1100" height="1002" fill="#f2f4ef"/><g font-family="Arial, Helvetica, sans-serif">
+<text x="36" y="38" font-size="12" fill="#22594c" font-weight="700">LEAD INTAKE + ROUTING ENGINE</text>
+<text x="36" y="83" font-size="32" fill="#19282c" font-weight="600">From inquiry to a clear next step.</text>
+<text x="36" y="112" font-size="13" fill="#5e6d70" font-weight="400">Actual engine output · Synthetic contacts · Rules version 1.0</text>
+<rect x="36" y="142" width="246" height="96" rx="5" fill="#fff" stroke="#dbe1d8"/>
+<text x="54" y="168" font-size="10" fill="#5e6d70" font-weight="700">LEADS RECEIVED</text>
+<text x="54" y="212" font-size="32" fill="#19282c" font-weight="400">12</text>
+<rect x="294" y="142" width="246" height="96" rx="5" fill="#fff" stroke="#dbe1d8"/>
+<text x="312" y="168" font-size="10" fill="#5e6d70" font-weight="700">CRM-READY</text>
+<text x="312" y="212" font-size="32" fill="#19282c" font-weight="400">5</text>
+<rect x="552" y="142" width="246" height="96" rx="5" fill="#fff" stroke="#dbe1d8"/>
+<text x="570" y="168" font-size="10" fill="#5e6d70" font-weight="700">NEEDS REVIEW</text>
+<text x="570" y="212" font-size="32" fill="#19282c" font-weight="400">4</text>
+<rect x="810" y="142" width="246" height="96" rx="5" fill="#fff" stroke="#dbe1d8"/>
+<text x="828" y="168" font-size="10" fill="#5e6d70" font-weight="700">INVALID</text>
+<text x="828" y="212" font-size="32" fill="#19282c" font-weight="400">3</text>
+<rect x="36" y="260" width="1028" height="712" rx="5" fill="#fff" stroke="#dbe1d8"/>
+<text x="54" y="285" font-size="10" fill="#5e6d70" font-weight="700">CONTACT / COMPANY</text>
+<text x="450" y="285" font-size="10" fill="#5e6d70" font-weight="700">SCORE</text>
+<text x="560" y="285" font-size="10" fill="#5e6d70" font-weight="700">ASSIGNED TEAM</text>
+<text x="872" y="285" font-size="10" fill="#5e6d70" font-weight="700">STATUS</text>
+<line x1="36" y1="300" x2="1064" y2="300" stroke="#edf0ea"/>
+<text x="54" y="323" font-size="13" fill="#22594c" font-weight="600">Avery Morgan</text>
+<text x="54" y="341" font-size="11" fill="#5e6d70" font-weight="400">Example Ridge Plumbing</text>
+<text x="450" y="324" font-size="14" fill="#19282c" font-weight="600">100/100</text>
+<text x="450" y="342" font-size="11" fill="#5e6d70" font-weight="400">high priority</text>
+<text x="560" y="328" font-size="12" fill="#19282c" font-weight="400">Home services sales</text>
+<rect x="872" y="314" width="135" height="26" rx="4" fill="#e6efdf"/>
+<text x="884" y="331" font-size="11" fill="#385731" font-weight="600">CRM-ready</text>
+<line x1="36" y1="356" x2="1064" y2="356" stroke="#edf0ea"/>
+<text x="54" y="379" font-size="13" fill="#22594c" font-weight="600">Jordan Ellis</text>
+<text x="54" y="397" font-size="11" fill="#5e6d70" font-weight="400">Example Willow Boutique</text>
+<text x="450" y="380" font-size="14" fill="#19282c" font-weight="600">80/100</text>
+<text x="450" y="398" font-size="11" fill="#5e6d70" font-weight="400">high priority</text>
+<text x="560" y="384" font-size="12" fill="#19282c" font-weight="400">Retail solutions</text>
+<rect x="872" y="370" width="135" height="26" rx="4" fill="#e6efdf"/>
+<text x="884" y="387" font-size="11" fill="#385731" font-weight="600">CRM-ready</text>
+<line x1="36" y1="412" x2="1064" y2="412" stroke="#edf0ea"/>
+<text x="54" y="435" font-size="13" fill="#22594c" font-weight="600">Casey Chen</text>
+<text x="54" y="453" font-size="11" fill="#5e6d70" font-weight="400">Example Cedar Consulting</text>
+<text x="450" y="436" font-size="14" fill="#19282c" font-weight="600">60/100</text>
+<text x="450" y="454" font-size="11" fill="#5e6d70" font-weight="400">medium priority</text>
+<text x="560" y="440" font-size="12" fill="#19282c" font-weight="400">Business services sales</text>
+<rect x="872" y="426" width="135" height="26" rx="4" fill="#e6efdf"/>
+<text x="884" y="443" font-size="11" fill="#385731" font-weight="600">CRM-ready</text>
+<line x1="36" y1="468" x2="1064" y2="468" stroke="#edf0ea"/>
+<text x="54" y="491" font-size="13" fill="#22594c" font-weight="600">Avery Morgan</text>
+<text x="54" y="509" font-size="11" fill="#5e6d70" font-weight="400">Example Ridge Plumbing</text>
+<text x="450" y="492" font-size="14" fill="#19282c" font-weight="600">77/100</text>
+<text x="450" y="510" font-size="11" fill="#5e6d70" font-weight="400">high priority</text>
+<text x="560" y="496" font-size="12" fill="#19282c" font-weight="400">Intake review</text>
+<rect x="872" y="482" width="135" height="26" rx="4" fill="#fff2d9"/>
+<text x="884" y="499" font-size="11" fill="#815519" font-weight="600">Needs review</text>
+<line x1="36" y1="524" x2="1064" y2="524" stroke="#edf0ea"/>
+<text x="54" y="547" font-size="13" fill="#22594c" font-weight="600">Taylor Brooks</text>
+<text x="54" y="565" font-size="11" fill="#5e6d70" font-weight="400">Example Harbor Restaurant</text>
+<text x="450" y="548" font-size="14" fill="#19282c" font-weight="600">73/100</text>
+<text x="450" y="566" font-size="11" fill="#5e6d70" font-weight="400">medium priority</text>
+<text x="560" y="552" font-size="12" fill="#19282c" font-weight="400">Intake review</text>
+<rect x="872" y="538" width="135" height="26" rx="4" fill="#fde9e6"/>
+<text x="884" y="555" font-size="11" fill="#9b302b" font-weight="600">Invalid</text>
+<line x1="36" y1="580" x2="1064" y2="580" stroke="#edf0ea"/>
+<text x="54" y="603" font-size="13" fill="#22594c" font-weight="600">Riley Shah</text>
+<text x="54" y="621" font-size="11" fill="#5e6d70" font-weight="400">Example Meadow Landscaping</text>
+<text x="450" y="604" font-size="14" fill="#19282c" font-weight="600">43/100</text>
+<text x="450" y="622" font-size="11" fill="#5e6d70" font-weight="400">low priority</text>
+<text x="560" y="608" font-size="12" fill="#19282c" font-weight="400">Intake review</text>
+<rect x="872" y="594" width="135" height="26" rx="4" fill="#fde9e6"/>
+<text x="884" y="611" font-size="11" fill="#9b302b" font-weight="600">Invalid</text>
+<line x1="36" y1="636" x2="1064" y2="636" stroke="#edf0ea"/>
+<text x="54" y="659" font-size="13" fill="#22594c" font-weight="600">Sam Ortega</text>
+<text x="54" y="677" font-size="11" fill="#5e6d70" font-weight="400">Example North Manufacturing</text>
+<text x="450" y="660" font-size="14" fill="#19282c" font-weight="600">80/100</text>
+<text x="450" y="678" font-size="11" fill="#5e6d70" font-weight="400">high priority</text>
+<text x="560" y="664" font-size="12" fill="#19282c" font-weight="400">General sales</text>
+<rect x="872" y="650" width="135" height="26" rx="4" fill="#e6efdf"/>
+<text x="884" y="667" font-size="11" fill="#385731" font-weight="600">CRM-ready</text>
+<line x1="36" y1="692" x2="1064" y2="692" stroke="#edf0ea"/>
+<text x="54" y="715" font-size="13" fill="#22594c" font-weight="600">Blake Reed</text>
+<text x="54" y="733" font-size="11" fill="#5e6d70" font-weight="400">Example Elm Architecture</text>
+<text x="450" y="716" font-size="14" fill="#19282c" font-weight="600">45/100</text>
+<text x="450" y="734" font-size="11" fill="#5e6d70" font-weight="400">medium priority</text>
+<text x="560" y="720" font-size="12" fill="#19282c" font-weight="400">Business services sales</text>
+<rect x="872" y="706" width="135" height="26" rx="4" fill="#e6efdf"/>
+<text x="884" y="723" font-size="11" fill="#385731" font-weight="600">CRM-ready</text>
+<line x1="36" y1="748" x2="1064" y2="748" stroke="#edf0ea"/>
+<text x="54" y="771" font-size="13" fill="#22594c" font-weight="600">Quinn Patel</text>
+<text x="54" y="789" font-size="11" fill="#5e6d70" font-weight="400">Example Willow Boutique</text>
+<text x="450" y="772" font-size="14" fill="#19282c" font-weight="600">80/100</text>
+<text x="450" y="790" font-size="11" fill="#5e6d70" font-weight="400">high priority</text>
+<text x="560" y="776" font-size="12" fill="#19282c" font-weight="400">Intake review</text>
+<rect x="872" y="762" width="135" height="26" rx="4" fill="#fff2d9"/>
+<text x="884" y="779" font-size="11" fill="#815519" font-weight="600">Needs review</text>
+<line x1="36" y1="804" x2="1064" y2="804" stroke="#edf0ea"/>
+<text x="54" y="827" font-size="13" fill="#22594c" font-weight="600">Alex Kim</text>
+<text x="54" y="845" font-size="11" fill="#5e6d70" font-weight="400">Example Bridge Group</text>
+<text x="450" y="828" font-size="14" fill="#19282c" font-weight="600">50/100</text>
+<text x="450" y="846" font-size="11" fill="#5e6d70" font-weight="400">medium priority</text>
+<text x="560" y="832" font-size="12" fill="#19282c" font-weight="400">Intake review</text>
+<rect x="872" y="818" width="135" height="26" rx="4" fill="#fff2d9"/>
+<text x="884" y="835" font-size="11" fill="#815519" font-weight="600">Needs review</text>
+<line x1="36" y1="860" x2="1064" y2="860" stroke="#edf0ea"/>
+<text x="54" y="883" font-size="13" fill="#22594c" font-weight="600">Parker Lane</text>
+<text x="54" y="901" font-size="11" fill="#5e6d70" font-weight="400">Example Northline HVAC</text>
+<text x="450" y="884" font-size="14" fill="#19282c" font-weight="600">97/100</text>
+<text x="450" y="902" font-size="11" fill="#5e6d70" font-weight="400">high priority</text>
+<text x="560" y="888" font-size="12" fill="#19282c" font-weight="400">Intake review</text>
+<rect x="872" y="874" width="135" height="26" rx="4" fill="#fff2d9"/>
+<text x="884" y="891" font-size="11" fill="#815519" font-weight="600">Needs review</text>
+<line x1="36" y1="916" x2="1064" y2="916" stroke="#edf0ea"/>
+<text x="54" y="939" font-size="13" fill="#22594c" font-weight="600">Jamie Rivera</text>
+<text x="54" y="957" font-size="11" fill="#5e6d70" font-weight="400">Example Orchard Hotel</text>
+<text x="450" y="940" font-size="14" fill="#19282c" font-weight="600">58/100</text>
+<text x="450" y="958" font-size="11" fill="#5e6d70" font-weight="400">medium priority</text>
+<text x="560" y="944" font-size="12" fill="#19282c" font-weight="400">Intake review</text>
+<rect x="872" y="930" width="135" height="26" rx="4" fill="#fde9e6"/>
+<text x="884" y="947" font-size="11" fill="#9b302b" font-weight="600">Invalid</text>
+<text x="36" y="990" font-size="11" fill="#5e6d70" font-weight="400">2 likely duplicate records held for review. No automatic merging or CRM connection.</text>
+</g></svg>
